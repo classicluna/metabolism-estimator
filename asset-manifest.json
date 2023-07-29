@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/metabolism-estimator/static/css/main.9b50f30c.css",
+    "main.js": "/metabolism-estimator/static/js/main.7b684f18.js",
+    "static/js/787.aa93554b.chunk.js": "/metabolism-estimator/static/js/787.aa93554b.chunk.js",
+    "index.html": "/metabolism-estimator/index.html",
+    "main.9b50f30c.css.map": "/metabolism-estimator/static/css/main.9b50f30c.css.map",
+    "main.7b684f18.js.map": "/metabolism-estimator/static/js/main.7b684f18.js.map",
+    "787.aa93554b.chunk.js.map": "/metabolism-estimator/static/js/787.aa93554b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b50f30c.css",
+    "static/js/main.7b684f18.js"
+  ]
+}
